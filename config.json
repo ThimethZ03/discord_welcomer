@@ -1,8 +1,8 @@
 {
-    "BOT_TOKEN": "MTE4OTkyNjQ2Mzg5MDI2ODI3MQ.G2Zb-B.3m9FyMepXl8hpMCVhmlMNWVDwZ5lUBescEc6T8",
-    "WELCOME_CHANNEL": "959013983187267634",
-    "ROLES": ["859318201489817600"],
-    "VERIFY_CHANNEL_ID": "960049754253967400",
-    "roleid": "1188520727213785101",
+    "BOT_TOKEN": "",
+    "WELCOME_CHANNEL": "",
+    "ROLES": [""],
+    "VERIFY_CHANNEL_ID": "",
+    "roleid": "",
     "prefix": "."
 }
