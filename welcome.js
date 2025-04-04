@@ -95,4 +95,4 @@ module.exports = function (client) {
     });
 }
 
-// coded by Xenon Colt | Shahriar Haque
+// coded by Thimeth.z |
