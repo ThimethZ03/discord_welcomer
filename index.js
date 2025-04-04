@@ -55,4 +55,4 @@ client.on("ready", () => {
 client.login(config.BOT_TOKEN);
 
 
-// coded by Xenon Colt | Shahriar Haque
+// coded by Thimeth.z | Shahriar Haque
